@@ -6,8 +6,14 @@
 A **Streamlit-powered AI chatbot** leveraging **Google Gemini API** for intelligent conversations, PDF summarization, and AI-powered task management. Built with a sleek **dark-mode UI**, this project enhances productivity and user experience.
 
 ---
-![Chatbot UI](output_screenshot/response.png)
+# Output-Screenshots
+<p align="center">
+  <img src="output_screenshot/response.png" width="30%" height="auto">
+  <img src="output_screenshot/summarizing.png" height="auto">
+  <img src="output_screenshot/to-do-list.png" width="30%" height="auto">
+</p>
 
+---
 
 ## **🚀 Features**
 
