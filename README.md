@@ -26,6 +26,7 @@ A **Streamlit-powered AI chatbot** leveraging **Google Gemini API** for intellig
 
 ---
 
+
 ## **🛠️ Tech Stack**
 
 - **Python** – Core programming language.
@@ -95,5 +96,7 @@ streamlit run app.py
 
 ---
 
+📜 License
 
+This project is open-source. Feel free to modify and improve it! 🎉
 
