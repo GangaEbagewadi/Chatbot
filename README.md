@@ -9,7 +9,7 @@ A **Streamlit-powered AI chatbot** leveraging **Google Gemini API** for intellig
 # Output-Screenshots
 <p align="center">
   <img src="output_screenshot/response.png" width="30%" height="auto">
-  <img src="output_screenshot/summarizing.png" height="auto">
+  <img src="output_screenshot/summarizing.png" width="30%" height="auto">
   <img src="output_screenshot/to-do-list.png" width="30%" height="auto">
 </p>
 
