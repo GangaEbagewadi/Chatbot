@@ -24,10 +24,6 @@ A **Streamlit-powered AI chatbot** leveraging **Google Gemini API** for intellig
 - Organizes tasks into a **structured to-do list with priorities and deadlines**.
 - AI-generated insights help in **task management**.
 
-### 🔹 **Dark Mode UI**
-
-- Modern and user-friendly interface for improved readability.
-
 ---
 
 ## **🛠️ Tech Stack**
@@ -45,8 +41,8 @@ A **Streamlit-powered AI chatbot** leveraging **Google Gemini API** for intellig
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/ai-chatbot-gemini.git
-cd ai-chatbot-gemin
+git clone https://github.com/GangaEbagewadi/chatbot
+cd chatbott
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -68,8 +64,8 @@ GOOGLE_API_KEY=your_api_key_here
 Alternatively, set the environment variable manually:
 
 ```bash
-export GOOGLE_API_KEY=your_api_key_here  # Linux/macOS
-set GOOGLE_API_KEY=your_api_key_here     # Windows
+$env:GOOGLE_API_KEY="your_api_key_here"  # Windows PowerShell
+export GOOGLE_API_KEY="your_api_key_here"  # Linux/macOS
 ```
 
 ### **4️⃣ Run the Application**
@@ -99,32 +95,5 @@ streamlit run app.py
 
 ---
 
-## **🔒 Security Considerations**
 
-- Store your **API key securely** using `.env` files or environment variables.
-- Avoid **hardcoding sensitive credentials** in the script.
-
----
-
-## **🤝 Contribution Guidelines**
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. **Fork** the repository.
-2. **Create a new branch** (`feature-branch`).
-3. **Commit your changes** (`git commit -m "Added new feature"`).
-4. **Push to GitHub** (`git push origin feature-branch`).
-5. **Submit a Pull Request**.
-
----
-
-## **📜 License**
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it.
-
----
-
-## **📬 Contact & Support**
-
-For feature requests, contributions, or issues, feel free to **open an issue** or **submit a pull request**. 🚀
 
